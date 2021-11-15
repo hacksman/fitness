@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "c49b151bfc301597",
+    "type": "split",
+    "children": [
+      {
+        "id": "86e7e083b6073f02",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "cook/刀的基本用法.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7db34264319daafa",
+    "type": "split",
+    "children": [
+      {
+        "id": "35ac3758441422de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ada37bf5b96d79e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4de23e18aa5381a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10e40d53099cb24a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c131c8cd69039ea0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41e625610a1a75cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cook/刀的基本用法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "86e7e083b6073f02",
+  "lastOpenFiles": [
+    "cook/刀的基本用法.md",
+    "cook/土豆的四种切法.md"
+  ]
+}
